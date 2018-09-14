@@ -19,7 +19,7 @@ For example, let's say our friend is really bad at parking. We have an entire st
 
 ## Coupon Queen
 ![Honey Boo Boo](https://media.giphy.com/media/ponvUa3urCwJq/giphy.gif)
-
+  
 Let's pretend we're Honey Boo Boo. Bored from parading around in beauty pageants, we decide to take up another hobby — programming. This might even help out Mama June, the Coupon Queen! Pulling up some store data, we're interested in getting a total price of all products that have a discount of 50% or more. The store data looks like this:
 
 ```js
